@@ -1,0 +1,11 @@
+Laptop 70000
+Phone 15000
+Mouse 750
+Monitor 1350
+Keyboard 900
+Headphones 2000
+Webcam 600
+Power_Bank 999
+Table 700
+Chair 550
+Lamp 350

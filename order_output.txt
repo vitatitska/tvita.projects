@@ -1,0 +1,8 @@
+ORDER REPORT
+Date: 16.04.2026
+Status: Completed
+
+Keyboard | Qty: 16 | Total: 14400
+Monitor | Qty: 2 | Total: 2700
+
+GRAND TOTAL: 17100
